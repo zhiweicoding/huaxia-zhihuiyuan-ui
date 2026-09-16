@@ -11,7 +11,7 @@
 
 仓库需要是 **public**，Stitch 才能直接用 URL 拉取。
 
-仓库地址生成后见 GitHub 页面。
+仓库：https://github.com/zhiweicoding/huaxia-zhihuiyuan-ui
 
 ## 里面有什么
 
