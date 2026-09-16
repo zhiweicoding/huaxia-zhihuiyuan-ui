@@ -182,6 +182,8 @@ components:
 
 生成任何新页面时，必须先套进现有外壳，再画内容区。不要重做 Logo、侧栏、顶栏或页签。
 
+配套 GitHub 组件库（给 Stitch 导入）：https://github.com/zhiweicoding/huaxia-zhihuiyuan-ui
+
 ## Colors
 
 调色板以工作台声明色为准，学生壳层里的局部值只允许在极近范围内浮动，不能漂到旧版社区蓝 `#1890FF` 或 Element 默认蓝 `#2563EB`。
