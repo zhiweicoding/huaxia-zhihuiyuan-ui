@@ -1,0 +1,31 @@
+{
+  "name": "华夏智汇园",
+  "theme": "workbench-teal",
+  "colors": {
+    "primary": "#126D82",
+    "primaryHover": "#0B5364",
+    "primarySoft": "#E6F2F4",
+    "sidebar": "#123F4B",
+    "sidebarDeep": "#0E3440",
+    "background": "#F4F8F9",
+    "surface": "#FFFFFF",
+    "text": "#263D45",
+    "textMuted": "#697784",
+    "outline": "#DCE7E9",
+    "success": "#278B68",
+    "warning": "#AD781D",
+    "error": "#C45F4C"
+  },
+  "layout": {
+    "sidebarWidth": 234,
+    "sidebarCollapsedWidth": 72,
+    "topbarHeight": 58,
+    "tabsbarHeight": 44,
+    "contentPadding": 20
+  },
+  "radius": {
+    "button": 5,
+    "card": 7,
+    "navItem": 8
+  }
+}

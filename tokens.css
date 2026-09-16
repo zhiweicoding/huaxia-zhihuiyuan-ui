@@ -1,0 +1,42 @@
+/* 华夏智汇园 / workbench-teal. Source: cms student chrome + workbench-theme. */
+:root {
+  --color-primary: #126D82;
+  --color-on-primary: #FFFFFF;
+  --color-primary-hover: #0B5364;
+  --color-primary-active: #083F4D;
+  --color-primary-bright: #13778B;
+  --color-primary-soft: #E6F2F4;
+  --color-secondary: #1C8A9E;
+  --color-secondary-deep: #156A7C;
+  --color-success: #278B68;
+  --color-warning: #AD781D;
+  --color-error: #C45F4C;
+  --color-danger-badge: #EE5572;
+  --color-sidebar: #123F4B;
+  --color-sidebar-deep: #0E3440;
+  --color-sidebar-text: #E5F3F5;
+  --color-sidebar-muted: #8FD9E0;
+  --color-surface: #FFFFFF;
+  --color-background: #F4F8F9;
+  --color-background-alt: #F6F8FA;
+  --color-text: #263D45;
+  --color-text-strong: #17212B;
+  --color-text-body: #405965;
+  --color-text-muted: #697784;
+  --color-text-faint: #87979E;
+  --color-outline: #DCE7E9;
+  --color-outline-strong: #D8E1E7;
+  --color-outline-input: #CFD9DF;
+  --color-avatar: #1B8192;
+  --shadow-sidebar: 2px 0 10px rgba(13, 48, 58, 0.14);
+  --shadow-overlay: 0 20px 46px rgba(23, 57, 68, 0.22);
+  --radius-xs: 4px;
+  --radius-sm: 5px;
+  --radius-md: 7px;
+  --radius-lg: 8px;
+  --radius-xl: 13px;
+  --sidebar-width: 234px;
+  --topbar-height: 58px;
+  --tabsbar-height: 44px;
+  --font: "PingFang SC", "Microsoft YaHei", Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
